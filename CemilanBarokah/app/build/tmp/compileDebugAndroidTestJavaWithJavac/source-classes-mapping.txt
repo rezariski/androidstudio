@@ -1,0 +1,4 @@
+com/example/cemilanbarokah/ExampleInstrumentedTest.java
+ com.example.cemilanbarokah.ExampleInstrumentedTest
+com/example/cemilanbarokah/test/BuildConfig.java
+ com.example.cemilanbarokah.test.BuildConfig

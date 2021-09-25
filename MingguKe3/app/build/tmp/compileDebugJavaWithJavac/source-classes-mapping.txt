@@ -1,0 +1,4 @@
+com/example/mingguke3/BuildConfig.java
+ com.example.mingguke3.BuildConfig
+com/example/mingguke3/MainActivity.java
+ com.example.mingguke3.MainActivity
